@@ -1,9 +1,9 @@
 {
-  "anchor_file": "anchors/1269.json",
-  "chain_root": "f1698999c0224a656f5495c450d1b235130656534601bffef80318244d136909",
-  "commit": "8159d60af3b0016a97585ec08257d3388166719d",
-  "external_ref": "https://github.com/superelan/foresight-proof/commit/8159d60af3b0016a97585ec08257d3388166719d",
-  "height": 1269,
+  "anchor_file": "anchors/1309.json",
+  "chain_root": "0706b11413f5698d976913c1baf3051454272e54ee00ade2c02b1b527c575b7a",
+  "commit": "3153c23cb4cbc8b729e69b9f3e1444cd5b43657b",
+  "external_ref": "https://github.com/superelan/foresight-proof/commit/3153c23cb4cbc8b729e69b9f3e1444cd5b43657b",
+  "height": 1309,
   "ledger_format_version": 2,
-  "ts": "2026-05-18T19:34:28.888385Z"
+  "ts": "2026-05-19T09:25:55.539361Z"
 }
