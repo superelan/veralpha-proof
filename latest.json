@@ -1,9 +1,9 @@
 {
-  "anchor_file": "anchors/2118.json",
-  "chain_root": "62cdc97ce5b63589539e4bfdc573301c8b23457928b12400b5817ef8c7f01036",
-  "commit": "357a5fd1cece0a78a6be616f80d33d4789935df9",
-  "external_ref": "https://github.com/superelan/veralpha-proof/commit/357a5fd1cece0a78a6be616f80d33d4789935df9",
-  "height": 2118,
+  "anchor_file": "anchors/2158.json",
+  "chain_root": "8d6cf67d7222e88c60989bae08b65dae6799a577a735ee61cbf6f9b8490cbc1d",
+  "commit": "d95770e565410284f8fd4491fd766a32a865bf9e",
+  "external_ref": "https://github.com/superelan/veralpha-proof/commit/d95770e565410284f8fd4491fd766a32a865bf9e",
+  "height": 2158,
   "ledger_format_version": 2,
-  "ts": "2026-06-02T19:06:47.202324Z"
+  "ts": "2026-06-03T01:06:43.029423Z"
 }
